@@ -27,16 +27,13 @@ graph TD
 ```
 ##### 3.2 序列图
 
-```
 sequenceDiagram
     loop everyday
         Alice-->>John:Hello john,how are you
         John-->>Alice:Great!
     end
-```
 
 ##### 3.2 甘特图
-```
 gantt
 dateFormat YYYY-MM-DD
 title 产品计划表
@@ -46,7 +43,7 @@ section 中期阶段
 跟进开发: 2016-03-11,15d
 section 后期阶段
 走差测试: 2016-03-20,9d
-```
+
 ##### 3.3 表格
 
 header 1 | header 2 | header 3
